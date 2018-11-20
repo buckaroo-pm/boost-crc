@@ -1,0 +1,17 @@
+targets = [ "//:crc" ]
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-array"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-config"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-integer"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-type_traits"
+version = "branch=master"
