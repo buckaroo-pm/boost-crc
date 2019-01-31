@@ -1,4 +1,4 @@
-manifest = "a09028176c080eb3039a8b82d8977891f1e2c4cbdd793e49a57628a51f5ee5a0"
+manifest = "f258fa76ca5d133597741f07e765b5186d401bf5593e32de7a9b68f5ebf2c6d5"
 
 [[dependency]]
 package = "github.com/buckaroo-pm/boost-array"
@@ -22,7 +22,7 @@ revision = "f326ae1e1b93216ce40e098a2baed4cc152d06ef"
 
 [lock."github.com/buckaroo-pm/boost-assert"]
 versions = [ "branch=master" ]
-revision = "628df4e4cb5226f05a35ea62830953dde79927f2"
+revision = "f9d6a7b63ef2902777b6078fdebc54e7a57aac03"
 
 [lock."github.com/buckaroo-pm/boost-config"]
 versions = [ "branch=master" ]
