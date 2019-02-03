@@ -18,7 +18,7 @@ target = "//:type-traits"
 
 [lock."github.com/buckaroo-pm/boost-array"]
 versions = [ "branch=master" ]
-revision = "f326ae1e1b93216ce40e098a2baed4cc152d06ef"
+revision = "33b398e1da5f9267d4c1e54df8651beaee611102"
 
 [lock."github.com/buckaroo-pm/boost-assert"]
 versions = [ "branch=master" ]
